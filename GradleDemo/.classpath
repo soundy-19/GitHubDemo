@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src/main/java">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/main" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/test" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/test" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="gradle_scope" value="test"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/chromedriver_win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/common 10Jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/eclipse-java-luna-SR1a-win32-x86_64.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/eclipse-jee-oxygen-3a-win32-x86_64.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/geckodriver-v0.26.0-win32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/geckodriver-v0.26.0-win64.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/Hamcrest jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/IEDriverServer_x64_3.150.1.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/Junit Jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/poi-bin-4.1.1-20191023.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/poi-src-4.1.1-20191023.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/Selenium Java Jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/Selenium Server Jar.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/selenium-java-3.141.59.zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/jars/jar_files (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/jars/jar_files (2).zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/jars/jar_files (3).zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/jars/jar_files (4).zip"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BLTuser.BLT1226/Desktop/sound works/Selenium jars/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>
